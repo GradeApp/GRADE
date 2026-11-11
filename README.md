@@ -1,6 +1,6 @@
 ![GRADE — Learning today. Opportunities tomorrow.](assets/grade-banner.svg)
 
-**[Website](https://grade.global/) · [Explore the demo](https://thegrade.app/) · [Pilot and partnerships](https://grade.global/contact.html)**
+**[Website](https://grade.global/) · [Explore the demo](https://igradeschool.com/) · [Pilot and partnerships](https://grade.global/contact.html)**
 
 GRADE — Genuine Reward for Academic Development — is a project in development connecting verified final semester grades with education opportunities after high school. It brings together students, families, schools, colleges and sponsors.
 
@@ -19,7 +19,7 @@ Students accumulate GRADE during school. Use toward tuition begins **after high 
 
 ### Explore the demo
 
-The [Explore the demo](https://thegrade.app/) link opens an illustrative prototype with **fictional profiles, grades, schools, colleges and programs**. School profiles demonstrate accumulation, forecasts and future opportunities. A separate graduate profile demonstrates applying a simulated discount. No payment is made and no real discount or enrollment is created.
+The [Explore the demo](https://igradeschool.com/) link opens an illustrative prototype with **fictional profiles, grades, schools, colleges and programs**. School profiles demonstrate accumulation, forecasts and future opportunities. A separate graduate profile demonstrates applying a simulated discount. No payment is made and no real discount or enrollment is created.
 
 ### Planned capabilities
 
